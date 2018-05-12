@@ -1,0 +1,32 @@
+_repo: Itinerario-de-Buenos-Aires-a-Cordoba_18784
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sourryère de Souillac, José
+    aliases:
+    - Sourryere de Souillac, Jose
+    - Souillac, José Sourryère de
+    birthdate: 1750
+    deathdate: 1820
+    gutenberg_agent_id: '8248'
+    url: http://www.gutenberg.org/2009/agents/8248
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2006-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18784'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Córdoba (Argentina : Province) -- Description and travel'
+- !lcc 'F2801'
+- !lcsh 'Buenos Aires (Argentina : Province) -- Description and travel'
+- !lcsh 'Argentina -- Discovery and exploration'
+title: Itinerario de Buenos Aires a Cordoba
+url: http://www.gutenberg.org/ebooks/18784
